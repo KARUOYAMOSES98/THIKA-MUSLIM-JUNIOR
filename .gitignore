@@ -1,0 +1,26 @@
+# React Native
+# Buck
+buck-out/
+dist/
+
+# Build
+android/app/build/
+
+# Xcode
+ios/build/
+
+# Expo
+.expo/
+.expo-shared/
+
+# Node
+node_modules/
+
+# Logs
+*.log
+logs/**
+
+# Misc
+*.swp
+.DS_Store
+Thumbs.db
